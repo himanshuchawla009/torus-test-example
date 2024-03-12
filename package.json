@@ -1,0 +1,19 @@
+{
+  "name": "torus-login-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@toruslabs/fetch-node-details": "^13.2.0",
+    "@toruslabs/torus.js": "^12.2.0",
+    "dotenv": "^14.3.2",
+    "jsonwebtoken": "^8.5.1",
+    "web3-utils": "^1.7.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
